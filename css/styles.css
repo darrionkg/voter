@@ -1,3 +1,7 @@
-#story {
+#oldEnough {
+  display: none;
+}
+
+#notOldEnough {
   display: none;
 }
